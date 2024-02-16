@@ -1,0 +1,14 @@
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\bin\Debug\net8.0\finalWork.exe
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\bin\Debug\net8.0\finalWork.deps.json
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\bin\Debug\net8.0\finalWork.runtimeconfig.json
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\bin\Debug\net8.0\finalWork.dll
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\bin\Debug\net8.0\finalWork.pdb
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.AssemblyInfoInputs.cache
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.AssemblyInfo.cs
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.csproj.CoreCompileInputs.cache
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.dll
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\refint\finalWork.dll
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.pdb
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\finalWork.genruntimeconfig.cache
+C:\Users\balza\OneDrive\Рабочий стол\finalWork\obj\Debug\net8.0\ref\finalWork.dll
